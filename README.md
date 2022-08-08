@@ -4,4 +4,4 @@ A simple example of an airflow instance using the LocalExecutor with postgres da
 
 ## Run
 
-```docker-compose -d```
+```docker-compose up -d```
